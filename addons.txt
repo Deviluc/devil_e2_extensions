@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+"name" "DevilExtensions"
+"version" "1.0"
+"author_name" "Deviluc"
+"author_email" "deviluc@googlemail.com"
+"author_url" ""
+"info" "A library of functions for the Expression 2"
+}
